@@ -14,9 +14,7 @@ My main notebooks are
 
 2. Spherical harmonics views of the whole atmosphere 
 
-3. QBO in DYAMOND! Momentum flux by scale from ZOOMLEVEL 6-10 
-
-[My breakout group's slides](https://docs.google.com/presentation/d/1M9oXSYbPU2sGan8TjrC02Yv223Jv7nelPNTeHA-D_bA/edit?slide=id.g358d85d781f_3_89#slide=id.g358d85d781f_3_89)
+3. QBO in DYAMOND! Momentum flux by scale from ZOOMLEVEL 6-10 In [My breakout group's slides](https://docs.google.com/presentation/d/1M9oXSYbPU2sGan8TjrC02Yv223Jv7nelPNTeHA-D_bA/edit?slide=id.g358d85d781f_3_89#slide=id.g358d85d781f_3_89), and slide 18 [here](https://docs.google.com/presentation/d/1tpFMmalyr8LAfPDhxpaikj6usSuvBkwplBwHQLYSviI/edit?slide=id.g3587aec30fb_12_17#slide=id.g3587aec30fb_12_17)
 
 4. 
 
